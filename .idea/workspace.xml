@@ -119,10 +119,10 @@
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="2993" y="308" key="#Notifications/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585009323164" />
-    <state x="3056" y="244" key="CommitChangelistDialog2" timestamp="1585011089366">
+    <state x="3056" y="244" key="CommitChangelistDialog2" timestamp="1585011143812">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state x="3056" y="244" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585011089366" />
+    <state x="3056" y="244" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585011143812" />
     <state x="3234" y="548" width="355" height="199" key="Github.CreateGistDialog" timestamp="1585008765660">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
@@ -147,13 +147,13 @@
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="2902" y="292" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585008728151" />
-    <state x="2993" y="371" key="Vcs.Push.Dialog.v2" timestamp="1585011092713">
+    <state x="2993" y="371" key="Vcs.Push.Dialog.v2" timestamp="1585011145933">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state x="2993" y="371" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585011092713" />
-    <state x="3210" y="566" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585009300137">
+    <state x="2993" y="371" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585011145933" />
+    <state x="3210" y="566" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585011149176">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state x="3210" y="566" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585009300137" />
+    <state x="3210" y="566" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1585011149176" />
   </component>
 </project>
