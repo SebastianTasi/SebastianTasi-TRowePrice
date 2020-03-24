@@ -47,3 +47,14 @@ mvn clean test
 
 Framework can be built with using TestNg or Junit  but preferred to use Cucumber BDD.
 It is created basic Page Object Model design pattern but it can improve if needed.
+
+*The design is POM(Page Object Model) framework is actual BDD Cucumber framework. I have Page Object Classes (Page Factory) to identify and store elements to utilize in testing and with help of PageWebFactory i am able to utilize all this elements through StepDefinition.
+Runner Class is specifically to run all tests from one location.
+The design is also Singleton Driver.
+I will use Utilities to store Driver utility, Configuration reader utility, excel utilities, Page utilities, Browser utilities
+I also store my cucumber feature files separately it also helps in reusability and utilise.
+Step definitions are storing my actual code.
+Hooks before and after steps and also take screenshoots.
+An extra class for rerun will help us to rerun failed scenarios.
+
+This is basically a short description of my framework design.
